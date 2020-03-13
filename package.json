@@ -1,7 +1,7 @@
 {
   "name": "deep-copy-object",
-  "version": "1.0.0",
-  "description": "Deep copy a JavaScript Object",
+  "version": "1.0.1",
+  "description": "Deep copy a Objects",
   "main": "index.js",
   "scripts": {
     "start": "npm start"
@@ -12,7 +12,14 @@
   },
   "keywords": [
     "deep",
-    "copy"
+    "copy",
+    "clone",
+    "recursive",
+    "deep-clone",
+    "deep-copy",
+    "javascript",
+    "object",
+    "obj"
   ],
   "author": "Sivantha Madusha",
   "license": "ISC",

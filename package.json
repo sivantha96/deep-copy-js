@@ -1,0 +1,23 @@
+{
+  "name": "deep-copy-js",
+  "version": "1.0.0",
+  "description": "Deep copy a JavaScript Object",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivantha96/deep-copy-js.git"
+  },
+  "keywords": [
+    "deep",
+    "copy"
+  ],
+  "author": "Sivantha Madusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivantha96/deep-copy-js/issues"
+  },
+  "homepage": "https://github.com/sivantha96/deep-copy-js#readme"
+}

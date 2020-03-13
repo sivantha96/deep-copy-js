@@ -1,5 +1,5 @@
 {
-  "name": "deep-copy-js",
+  "name": "deep-copy-object",
   "version": "1.0.0",
   "description": "Deep copy a JavaScript Object",
   "main": "index.js",

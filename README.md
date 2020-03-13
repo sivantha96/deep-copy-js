@@ -1,4 +1,4 @@
-# deep-copy-js
+# deep-copy-object
 
 Deep copy a JavaScript Object
 

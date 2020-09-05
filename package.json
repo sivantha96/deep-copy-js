@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/sivantha96/deep-copy-js/issues"
   },
-  "homepage": "https://github.com/sivantha96/deep-copy-js#readme"
+  "homepage": "https://github.com/sivantha96/deep-copy-js#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
